@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mi Primera Página Web</title>
+    </head>
+    <body>
+        <h1>Bienvenidos a mi página web</h1>
+        <p>Hola, soy <b>Santiago</b> Este es un texto en <i>cursiva</i> y tambíen hay texto <del>tachado</del>.</p>
+        <p>Me encanta el deporte. Mis deportes favotitos son el <b>Voleibol</b> y el <i>baloncesto</i>.<br>Tambíen disfruto de actividades al aire libre</p>
+        <hr>
+        <h2>Mis hobbies</h2>
+        <ul>
+            <li>Gimnasio</li>
+            <li>Escuchar música</li>
+            <li>Fotografía</li>
+        </ul>
+        <p>Soy un gran fan de <abbr title="Hora de Libre Configuración">HLC</abbr>.</p>
+        <h3>Más sobre mi</h3>
+        <p>Me gusta viajar y conocer nuevas culturas.</p>
+        <h3>Mis lugares favoritos</h3>
+        <ol>
+            <li>Colombia</li>
+            <li>La montaña</li>
+            <li>La playa</li>
+        </ol>
+        <h4>Contacto</h4>
+        <p>Pues contactarme en mi email: svelbel2705@g.educaand.es</p>
+    </body>
+</html>
